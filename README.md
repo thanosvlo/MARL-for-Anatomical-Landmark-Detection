@@ -5,7 +5,7 @@ Automatic detection of anatomical landmarks is an important step for a wide rang
 * Code is part of [Tensorpack-medical project](https://github.com/amiralansary/tensorpack-medical). 
 
 <p align="center">
-<img style="float: center;" src="images/framework.png" width="465">
+<img style="float: center;" src="images/Colab_dqn_BW.png" width="465">
 <img style="float: center;" src="images/actions.png" width="130">
 </p>
 
