@@ -2,6 +2,8 @@
 
 Automatic detection of anatomical landmarks is an important step for a wide range of applications in medical image analysis. The location of anatomical landmarks is interdependent and non-random in a human anatomy, hence locating one is able to help locate others. In this project, we formulate the landmark detection problem as a cocurrent partially observable markov decision process (POMDP) navigating in a medical image environment towards the target landmarks. We create a collaborative Deep Q-Network (DQN) based architecture where we share the convolutional layers amongst agents, sharing thus implicitly knowledge. This code also supports both fixed- and multi-scale search strategies with hierarchical action steps in a coarse-to-fine manner.
 
+* Code is based on and part of Tensorpack-medical project. 
+
 <p align="center">
 <img style="float: center;" src="images/framework.png" width="465">
 <img style="float: center;" src="images/actions.png" width="130">
