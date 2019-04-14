@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # File: viewer.py
 # Author: Amir Alansary <amiralansary@gmail.com>
-
+# Modified: Athanasios Vlontzos <athanasiosvlontzos@gmail.com>
 import os
 import math
 try:

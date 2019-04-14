@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 # File: DQN.py
 # Author: Amir Alansary <amiralansary@gmail.com>
+# Modified: Athanasios Vlontzos <athanasiosvlontzos@gmail.com>
 
 def warn(*args, **kwargs):
     pass
