@@ -70,10 +70,12 @@ python DQN.py --task play  --gpu 0 --load data/models/DQN_multiscale_brain_mri_p
 
 ### Citation 
 To cite this work use the below bibtex item.
+https://arxiv.org/pdf/1907.00318.pdf
 ```
 @article{Vlontzos2019,
 author = {Vlontzos, Athanasios and Alansary, Amir and Kamnitsas, Konstantinos and Rueckert, Daniel and Kainz, Bernhard},
 title = {Multiple Landmark Detection using Multi-Agent Reinforcement Learning},
+journal={MICCAI}
 year = {2019}
 }
 ```
